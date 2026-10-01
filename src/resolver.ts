@@ -338,7 +338,7 @@ export class SkyDataResolver {
           const spirit = this.guids.get(eventSpirit.spirit as any) as ISpirit;
           if (!spirit) { console.error( 'Spirit not found', eventSpirit.spirit); }
           eventSpirit.spirit = spirit;
-          eventSpirit.spirit.eventInstanceSpirits = [];
+          eventSpirit.spirit.eventInstanceSpirits ??= [];
           eventSpirit.spirit.eventInstanceSpirits.push(eventSpirit);
 
           const tree = this.guids.get(eventSpirit.tree as any) as ISpiritTree;
