@@ -1,14 +1,25 @@
-name: Bump version and Publish
+name: Release
 
 on:
   workflow_dispatch:
+    inputs:
+      publish:
+        description: 'Bump the patch version and publish to npm'
+        type: boolean
+        default: true
+      deploy:
+        description: 'Deploy to data.sky-planner.com'
+        type: boolean
+        default: true
 
 permissions:
   id-token: write # Required for OIDC
   contents: write
 
+concurrency: release
+
 jobs:
-  bump-publish:
+  release:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -19,6 +30,7 @@ jobs:
           registry-url: https://registry.npmjs.org/
 
       - name: Configure git
+        if: inputs.publish
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -30,12 +42,27 @@ jobs:
         run: npm run build
 
       - name: Bump patch version
+        if: inputs.publish
         run: npm version patch
 
       - name: Publish
+        if: inputs.publish
         run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       - name: Push changes
+        if: inputs.publish
         run: git push --follow-tags
+
+      # Uses the version in package.json, which is the one just published when publish is on.
+      - name: Build CDN site
+        if: inputs.deploy
+        run: npm run cdn-build
+
+      - name: Deploy to data.sky-planner.com
+        if: inputs.deploy
+        run: npm run cdn-deploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}

@@ -149,3 +149,7 @@ vite.config.ts.timestamp-*
 
 # Playwright
 .playwright-mcp/*
+
+# CDN build output
+/cdn
+/.cdn-tmp

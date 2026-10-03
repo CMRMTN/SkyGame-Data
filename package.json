@@ -6,6 +6,8 @@
     "json-build": "node ./src/scripts/json-build.cjs",
     "serve": "node ./src/scripts/json-serve.cjs",
     "build": "npm run json-build && tsc",
+    "cdn-build": "node ./scripts/build-cdn.mjs",
+    "cdn-deploy": "npx wrangler@4 pages deploy cdn --project-name=skygame-data --branch=master --commit-dirty=true",
     "test": "tsx tests/try-parse.ts"
   },
   "main": "dist/index.js",
