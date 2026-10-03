@@ -40,5 +40,49 @@
   { "guid": "wneuFTU3tX", "item": "F8ce_dBrPY", "c": 28, "nw": "hpkkycy5sD", "n": "J9IUo7vNDF" },
   { "guid": "hpkkycy5sD", "item": "twA4De_ffX", "c": 30 },
   { "guid": "J9IUo7vNDF", "item": "zx76h0R_t1", "c": 32, "n": "HRv2TT5PEJ" },
-  { "guid": "HRv2TT5PEJ", "item": "u0SCSGIIiY", "c": 34 }
+  { "guid": "HRv2TT5PEJ", "item": "u0SCSGIIiY", "c": 34 },
+  // #region Friendship tiers (0.33.5)
+  // Tier 1
+  { "guid": "Eh2KoaRVA3", "item": "qVDJtzT2DW" },
+  { "guid": "MWykv2FNOZ", "item": "LPlzfbROGO", "c": 1 },
+  { "guid": "My2sae01Aj", "item": "YrYWxom0Zo", "c": 1 },
+  // Tier 2
+  { "guid": "mCpRcIlUYO", "item": "4gsvipjipR", "c": 3 },
+  { "guid": "9lv9eq_rg8", "item": "e_QqZG2-mu", "c": 2 },
+  { "guid": "g58JjJ487u", "item": "UN54u8IOr-", "c": 2 },
+  { "guid": "90fxakdQ2Q", "item": "EdPwAlj-h7", "c": 4 },
+  { "guid": "ExvEtR0k3h", "item": "9kjMkbwXAn", "c": 4 },
+  // Tier 3
+  { "guid": "nreljXKOWg", "item": "Di9-yWxPA8", "c": 3 },
+  { "guid": "JaFQ6pZT7U", "item": "-f9A5JtN10", "c": 3 },
+  { "guid": "K-wRvUnO9P", "item": "85oGrjG3nO", "c": 3 },
+  { "guid": "2Dq4qIShB8", "item": "GEjkYaedrv", "c": 4 },
+  { "guid": "_5lt2rDrBW", "item": "EtyvYTOray", "c": 4 },
+  { "guid": "j4bjwDtnwW", "item": "zx76h0R_t1", "c": 5 },
+  { "guid": "pcMZQyhVJ_", "item": "u0SCSGIIiY", "c": 5 },
+  // Tier 4
+  { "guid": "79UtDzYPQW", "item": "o-A4eK8_t9" },
+  { "guid": "gmUnVCO-P4", "item": "gBAoWnewws", "c": 6 },
+  { "guid": "uX1NKANOUc", "item": "HZUFhAloNh", "c": 6 },
+  { "guid": "TaQNPQonVQ", "item": "fvcBgXz3dk", "c": 7 },
+  { "guid": "Ce7VloeSem", "item": "KaTawc10yv", "c": 7 },
+  { "guid": "im683ISzuE", "item": "v7Nj8k2ALr", "c": 9 },
+  { "guid": "egISm727KN", "item": "MCF71ATBj6", "c": 9 },
+  // Tier 5
+  { "guid": "EhGzq5EZ7n", "item": "nSNGn5IA9_", "c": 12 },
+  { "guid": "p4YJFfzqZ8", "item": "t-aJtf00Eh", "c": 12 },
+  { "guid": "XZqTUV19F2", "item": "Zo8M9nQL3g", "c": 14 },
+  { "guid": "2R-wgen-eZ", "item": "-WcdyDZN7V", "c": 14 },
+  { "guid": "KSN4eMDU2s", "item": "mRlO0PbyZ8", "c": 17 },
+  { "guid": "QGO0dpClA9", "item": "Mdg7pSWyrR", "c": 17 },
+  // Tier 6
+  { "guid": "u8YGQ_bIy7", "item": "NXwMpDBy1c", "ac": 10 },
+  { "guid": "IPd4ZtLifk", "item": "RQbWD1ZvYI", "c": 22 },
+  { "guid": "V0pjfN5zah", "item": "SG_GBqZ91S", "c": 22 },
+  { "guid": "Bd_52dwJIz", "item": "PWojjGW2bk", "c": 24 },
+  { "guid": "K18DcipCpW", "item": "iDcZRZjKhJ", "c": 24 },
+  // Tier 7
+  { "guid": "_xeXFr-7s0", "item": "F8ce_dBrPY", "c": 34 },
+  { "guid": "h-80eFOBZW", "item": "twA4De_ffX", "c": 34 }
+  // #endregion
 ]

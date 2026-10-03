@@ -1,0 +1,60 @@
+[
+  // Friendship tiers (0.33.5)
+  // Tier 1
+  {
+    "guid": "6uFDk9ka8V",
+    "next": "fbYZYhW7XX",
+    "rows": [
+      ["Eh2KoaRVA3", "MWykv2FNOZ", null]
+    ]
+  },
+  // Tier 2
+  {
+    "guid": "fbYZYhW7XX",
+    "next": "jZxPnmbUaH",
+    "rows": [
+      ["mCpRcIlUYO", "9lv9eq_rg8", "90fxakdQ2Q"]
+    ]
+  },
+  // Tier 3
+  {
+    "guid": "jZxPnmbUaH",
+    "next": "dzL-4EmLuq",
+    "rows": [
+      ["nreljXKOWg", "JaFQ6pZT7U", "2Dq4qIShB8"],
+      ["j4bjwDtnwW", null, null]
+    ]
+  },
+  // Tier 4
+  {
+    "guid": "dzL-4EmLuq",
+    "next": "ClUC1cu0GB",
+    "rows": [
+      ["79UtDzYPQW", "gmUnVCO-P4", "TaQNPQonVQ"],
+      ["im683ISzuE", null, null]
+    ]
+  },
+  // Tier 5
+  {
+    "guid": "ClUC1cu0GB",
+    "next": "HPJhtGDBHZ",
+    "rows": [
+      ["EhGzq5EZ7n", "XZqTUV19F2", "KSN4eMDU2s"]
+    ]
+  },
+  // Tier 6
+  {
+    "guid": "HPJhtGDBHZ",
+    "next": "SqcRN8T82N",
+    "rows": [
+      ["u8YGQ_bIy7", "IPd4ZtLifk", "Bd_52dwJIz"]
+    ]
+  },
+  // Tier 7
+  {
+    "guid": "SqcRN8T82N",
+    "rows": [
+      ["_xeXFr-7s0", null, null]
+    ]
+  }
+]

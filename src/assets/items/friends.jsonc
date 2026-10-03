@@ -444,5 +444,357 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Friendship_Menu#Duet_Bow"
     }
+  },
+  {
+    "id": 3300,
+    "guid": "DBTFDxCGm3",
+    "type": "Special",
+    "name": "Fist Bump",
+    "level": 3,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6c/Icon_fist_bump.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Friendship_Menu#Fist_Bump"
+    }
+  },
+  {
+    "id": 3301,
+    "guid": "DtX93JYWYD",
+    "type": "Special",
+    "name": "Fist Bump",
+    "level": 4,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6c/Icon_fist_bump.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Friendship_Menu#Fist_Bump"
+    }
+  },
+  {
+    "id": 3302,
+    "guid": "SS1cciKOn4",
+    "type": "Special",
+    "name": "Handshake",
+    "level": 3,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4a/SoPerformance_-_Frantic_Stagehand-emote-icon-Morybel-0146.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Friendship_Menu#Handshake"
+    }
+  },
+  {
+    "id": 3303,
+    "guid": "g2x-AifX6q",
+    "type": "Special",
+    "name": "Handshake",
+    "level": 4,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4a/SoPerformance_-_Frantic_Stagehand-emote-icon-Morybel-0146.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Friendship_Menu#Handshake"
+    }
+  },
+  {
+    "id": 3304,
+    "guid": "6STtmsf-yq",
+    "type": "Special",
+    "name": "Side Hug",
+    "level": 3,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9b/Reassuring-Ranger-Action-icon-Credit-Morybel.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Friendship_Menu#Side_Hug"
+    }
+  },
+  {
+    "id": 3305,
+    "guid": "R0sApxsFvq",
+    "type": "Special",
+    "name": "Side Hug",
+    "level": 4,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9b/Reassuring-Ranger-Action-icon-Credit-Morybel.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Friendship_Menu#Side_Hug"
+    }
+  },
+  {
+    "id": 3306,
+    "guid": "JO8Ga3S4ya",
+    "type": "Special",
+    "name": "Duet Dance",
+    "level": 3,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/11/Morybel-0146-SOPerformance-Modest-Dancer-emote-icon.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Friendship_Menu#Duet_Dance"
+    }
+  },
+  {
+    "id": 3307,
+    "guid": "ti6FPoODaA",
+    "type": "Special",
+    "name": "Duet Dance",
+    "level": 4,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/11/Morybel-0146-SOPerformance-Modest-Dancer-emote-icon.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Friendship_Menu#Duet_Dance"
+    }
+  },
+  {
+    "id": 3308,
+    "guid": "cie5WT1eqE",
+    "type": "Special",
+    "name": "Hair Tousle",
+    "level": 3,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/24/Hair_tousle.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Friendship_Menu#Hair_Tousle"
+    }
+  },
+  {
+    "id": 3309,
+    "guid": "Q7dtCNyphy",
+    "type": "Special",
+    "name": "Hair Tousle",
+    "level": 4,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/24/Hair_tousle.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Friendship_Menu#Hair_Tousle"
+    }
+  },
+  {
+    "id": 3310,
+    "guid": "WmaeEG2msh",
+    "type": "Special",
+    "name": "Bearhug",
+    "level": 3,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9e/Season_of_Dreams_-_Bearhug_hermit.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Friendship_Menu#Bearhug"
+    }
+  },
+  {
+    "id": 3311,
+    "guid": "bm5wgRqwty",
+    "type": "Special",
+    "name": "Bearhug",
+    "level": 4,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9e/Season_of_Dreams_-_Bearhug_hermit.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Friendship_Menu#Bearhug"
+    }
+  },
+  {
+    "id": 3312,
+    "guid": "MX3V1sd17B",
+    "type": "Special",
+    "name": "Hug",
+    "level": 3,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c6/Icon_hug.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Friendship_Menu#Hug"
+    }
+  },
+  {
+    "id": 3313,
+    "guid": "MCTPUnPl7k",
+    "type": "Special",
+    "name": "Hug",
+    "level": 4,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c6/Icon_hug.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Friendship_Menu#Hug"
+    }
+  },
+  {
+    "id": 3314,
+    "guid": "OYNM_Kqsw8",
+    "type": "Special",
+    "name": "High Five",
+    "level": 3,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/94/Icon_high_five.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Friendship_Menu#High_Five"
+    }
+  },
+  {
+    "id": 3315,
+    "guid": "abvqYkR7md",
+    "type": "Special",
+    "name": "High Five",
+    "level": 4,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/94/Icon_high_five.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Friendship_Menu#High_Five"
+    }
+  },
+  {
+    "id": 3316,
+    "guid": "4mdTrHGmav",
+    "type": "Special",
+    "name": "Duet Bow",
+    "level": 3,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b4/Duets-Guide-Action-icon.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Friendship_Menu#Duet_Bow"
+    }
+  },
+  {
+    "id": 3317,
+    "guid": "wLB1KtEqnj",
+    "type": "Special",
+    "name": "Duet Bow",
+    "level": 4,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b4/Duets-Guide-Action-icon.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Friendship_Menu#Duet_Bow"
+    }
+  },
+  {
+    "id": 3318,
+    "guid": "bvQ3zaKjDk",
+    "type": "Special",
+    "name": "Play Fight",
+    "level": 3,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b9/Play_fight_lvl_2_white_on_black.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Friendship_Menu#Play_Fight"
+    }
+  },
+  {
+    "id": 3319,
+    "guid": "32abBn-oC6",
+    "type": "Special",
+    "name": "Play Fight",
+    "level": 4,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b9/Play_fight_lvl_2_white_on_black.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Friendship_Menu#Play_Fight"
+    }
+  },
+  {
+    "id": 3320,
+    "guid": "gBAoWnewws",
+    "type": "Special",
+    "name": "Whispering",
+    "level": 1,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Lightmending-Light-Scholar-Emote-icon.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Scholar#Friend_Action"
+    }
+  },
+  {
+    "id": 3321,
+    "guid": "HZUFhAloNh",
+    "type": "Special",
+    "name": "Whispering",
+    "level": 2,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Lightmending-Light-Scholar-Emote-icon.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Scholar#Friend_Action"
+    }
+  },
+  {
+    "id": 3322,
+    "guid": "nDNV_xU8rT",
+    "type": "Special",
+    "name": "Whispering",
+    "level": 3,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Lightmending-Light-Scholar-Emote-icon.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Scholar#Friend_Action"
+    }
+  },
+  {
+    "id": 3323,
+    "guid": "u1jRntY84E",
+    "type": "Special",
+    "name": "Whispering",
+    "level": 4,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Lightmending-Light-Scholar-Emote-icon.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Scholar#Friend_Action"
+    }
+  },
+  {
+    "id": 3324,
+    "guid": "nSNGn5IA9_",
+    "type": "Special",
+    "name": "Revolving Dance",
+    "level": 1,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Lightmending-Champion-Emote-icon.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Champion"
+    }
+  },
+  {
+    "id": 3325,
+    "guid": "t-aJtf00Eh",
+    "type": "Special",
+    "name": "Revolving Dance",
+    "level": 2,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Lightmending-Champion-Emote-icon.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Champion"
+    }
+  },
+  {
+    "id": 3326,
+    "guid": "g8JfnFziVU",
+    "type": "Special",
+    "name": "Revolving Dance",
+    "level": 3,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Lightmending-Champion-Emote-icon.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Champion"
+    }
+  },
+  {
+    "id": 3327,
+    "guid": "MC8oDSqv_N",
+    "type": "Special",
+    "name": "Revolving Dance",
+    "level": 4,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Lightmending-Champion-Emote-icon.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Champion"
+    }
+  },
+  {
+    "id": 3328,
+    "guid": "mRlO0PbyZ8",
+    "type": "Special",
+    "name": "Secret Handshake",
+    "level": 1,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Lightmending-Light-Catcher-Emote-icon.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Catcher"
+    }
+  },
+  {
+    "id": 3329,
+    "guid": "Mdg7pSWyrR",
+    "type": "Special",
+    "name": "Secret Handshake",
+    "level": 2,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Lightmending-Light-Catcher-Emote-icon.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Catcher"
+    }
+  },
+  {
+    "id": 3330,
+    "guid": "_FgImFpohg",
+    "type": "Special",
+    "name": "Secret Handshake",
+    "level": 3,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Lightmending-Light-Catcher-Emote-icon.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Catcher"
+    }
+  },
+  {
+    "id": 3331,
+    "guid": "Zoo33SoYU4",
+    "type": "Special",
+    "name": "Secret Handshake",
+    "level": 4,
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Lightmending-Light-Catcher-Emote-icon.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Catcher"
+    }
   }
 ]
