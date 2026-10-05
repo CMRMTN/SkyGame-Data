@@ -134,6 +134,12 @@
     "type": "Outfit",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/66/Moonlight-Trousers-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/93/Moonlight-Trousers-front.png",
+    "dye": {
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Moonlight_9cdpants.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Moonlight_9cdpants.jpg",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2026#Moonlight_Trousers"
     },
@@ -182,6 +188,12 @@
     "type": "HairAccessory",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/39/Moonlight-Lotus-Halo-Icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/16/Moonlight-Lotus-Halo.png",
+    "dye": {
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Moonlight_lotushalo.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/2slots_Moonlight_lotushalo.jpg",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2026#Lotus_Halo"
     },
