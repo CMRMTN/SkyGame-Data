@@ -36,6 +36,41 @@
       ["askYc-YXUN", "HyEQTfK7EW" , "-r5lQ3ZugZ"]
     ]
   },
+  // After Season
+  { 
+    "guid": "P2op3M6rbq", 
+    "next": "d0QtcMnCYG", 
+    "rows": [
+      ["47VU7X-pqe", null, null]
+    ]
+  },
+  { 
+    "guid": "d0QtcMnCYG", 
+    "next": "1dO-Mq6Cgo", 
+    "rows": [
+      ["oOuNHnqkoO", "0huwPuPnod", "BZ2mFLbYVF"]
+    ]
+  },
+  { 
+    "guid": "1dO-Mq6Cgo", 
+    "next": "Jw_FBbxJOX", 
+    "rows": [
+      ["dc3vSf6DVP", "L7MdaQkrLG", "G98h95mUib"]
+    ]
+  },
+  { 
+    "guid": "Jw_FBbxJOX", 
+    "next": "msTOt3da8F", 
+    "rows": [
+      ["XPLr2_9dgT", "d35FBLbwsw", "c8AJ7N_OJv"]
+    ]
+  },
+  { 
+    "guid": "msTOt3da8F", 
+    "rows": [
+      ["1H06c92VLs", "8-13lflkmq", "bD9Iubh6Qu"]
+    ]
+  },
   // Carnival Juggler
   {
     "guid": "kVs4MAAnAG",
@@ -98,7 +133,7 @@
     "guid": "O9wIAq9K6v",
     "next": "j6D_XlkSwD",
     "rows": [
-      ["ZpPOIE3GzM", null, "C_n1m3qfL7"],
+      ["ZpPOIE3GzM", null, "C_n1m3qfL7"]
     ]
   },
   {
