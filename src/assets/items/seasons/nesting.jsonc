@@ -1418,6 +1418,12 @@
     "name": "Stone Large Bathtub",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e7/Stone-Large-Bathtub-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8d/Stone-Large-Bathtub-Prop.png",
+    "dye": {
+      "previewUrl": "",
+      "infoUrl": "",
+      "primary": {},
+      "secondary": {}
+    },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Large_Bathtub"
     },

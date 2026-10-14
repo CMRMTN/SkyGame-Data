@@ -60,7 +60,7 @@
     "name": "Moonlight Blossom Accessory",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Moonlight-Blossom-Accessory-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8e/Moonlight-Blossom-Accessory.png",
-    "order": 5500,
+    "order": 6662,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2024#Moonlight_Blossom_Accessory"
     }
@@ -143,7 +143,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2026#Moonlight_Trousers"
     },
-    "order": 6900
+    "order": 5750
   },
   {
     "id": 3295,
@@ -155,7 +155,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2026#Moonlight_Ears"
     },
-    "order": 2600
+    "order": 2050
   },
   {
     "id": 3296,
@@ -167,7 +167,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2026#Moonlight_Lotus_Cushion"
     },
-    "order": 13900
+    "order": 11450
   },
   {
     "id": 3297,
@@ -179,7 +179,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2026#Moonlight_Pipa"
     },
-    "order": 14000
+    "order": 3450
   },
   {
     "id": 3298,
@@ -197,7 +197,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2026#Lotus_Halo"
     },
-    "order": 8500
+    "order": 6675
   },
   {
     "id": 3299,
@@ -209,6 +209,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight/2026#Floral_Veil"
     },
-    "order": 11400
+    "order": 10962
   }
 ]
