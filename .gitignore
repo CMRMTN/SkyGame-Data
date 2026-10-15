@@ -153,3 +153,6 @@ vite.config.ts.timestamp-*
 # CDN build output
 /cdn
 /.cdn-tmp
+
+# Local placeholder icons
+/.local-icons

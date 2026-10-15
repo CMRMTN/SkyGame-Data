@@ -44,10 +44,27 @@ const notFound = (res) => {
   res.end('Not Found');
 };
 
+// Local placeholder icons (git-ignored), for items whose icon is "/proxy/icons/<file>" until a wiki icon exists.
+// The Planner's proxy mode maps /proxy/** to this server.
+const iconsDir = path.resolve(__dirname, '../../.local-icons');
+const serveIcon = (req, res) => {
+  const name = decodeURIComponent(req.url.substring('/icons/'.length).split('?')[0]);
+  if (!/^[\w.-]+\.(png|webp|jpg)$/.test(name)) return notFound(res);
+  fs.readFile(path.join(iconsDir, name), (err, data) => {
+    if (err) return notFound(res);
+    const type = name.endsWith('.png') ? 'image/png' : name.endsWith('.webp') ? 'image/webp' : 'image/jpeg';
+    res.writeHead(200, { 'Content-Type': type });
+    res.end(data);
+  });
+};
+
 // Create the server
 const urls = new Set(['/everything.json', '/candles.json']);
 const server = http.createServer((req, res) => {
-  if (req.method !== 'GET' || !urls.has(req.url)) {    
+  if (req.method === 'GET' && req.url.startsWith('/icons/')) {
+    return serveIcon(req, res);
+  }
+  if (req.method !== 'GET' || !urls.has(req.url)) {
     return notFound(res);
   }
 
