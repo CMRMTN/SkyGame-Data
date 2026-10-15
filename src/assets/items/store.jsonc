@@ -313,7 +313,8 @@
     "id": 3332,
     "guid": "Ur2MI4279X",
     "type": "HairAccessory",
-    "name": "Sunflower Headband"
+    "name": "Sunflower Headband",
+    "order": 8500
   },
   {
     "id": 3133,
@@ -331,12 +332,14 @@
     "id": 3334,
     "guid": "PTMb3EIBmD",
     "type": "Necklace",
-    "name": "Sunflower Neck Tie"
+    "name": "Sunflower Neck Tie",
+    "order": 5900
   },
   {
     "id": 3335,
     "guid": "phxE9BqJEg",
     "type": "Outfit",
-    "name": "Sunflower Dress"
+    "name": "Sunflower Dress",
+    "order": 3400
   }
 ]
