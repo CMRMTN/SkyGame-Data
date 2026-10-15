@@ -82,17 +82,17 @@
     "itemList": "Lu78MMHJp7"
   },
   {
-    "guid": "joQYfxi-yB",
-    "type": "Object",
-    "name": "Web Store (unavailable)",
-    "permanent": true,
-    "iaps": ["z-ApX7yPrr"]
-  },
-  {
     "guid": "Gai_jFs5AO",
     "type": "Object",
     "name": "Flight Guide",
     "permanent": "prairieheights",
     "itemList": "AaCyOGpIcf"
+  },
+  {
+    "guid": "A4qUkqwLBD",
+    "type": "Store",
+    "name": "Loyalty Store",
+    "permanent": "loyalty",
+    "itemList": "f61nK9wZY_"
   }
 ]

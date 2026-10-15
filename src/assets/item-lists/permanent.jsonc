@@ -41,5 +41,15 @@
       { "guid": "G7UjccTiPL", "item": "1NqdTvGfIw", "c": 19 },
       { "guid": "sp_FVv_Tr2", "item": "PtirMJeXBS", "c": 19 }
     ]
+  },
+  // Loyalty Store
+  {
+    "guid": "f61nK9wZY_",
+    "items": [
+      { "guid": "Cv1uuh4pjF", "item": "Ur2MI4279X", "lp": 10 },
+      { "guid": "ikHxDgmEQn", "item": "-0MdVdgbqv", "lp": 20 },
+      { "guid": "qyvim0ZtQL", "item": "PTMb3EIBmD", "lp": 50 },
+      { "guid": "ag93LZruk-", "item": "phxE9BqJEg", "lp": 150 }
+    ]
   }
 ]

@@ -286,19 +286,6 @@
     "order": 11200
   },
   {
-    "id": 3133,
-    "guid": "-0MdVdgbqv",
-    "type": "HairAccessory",
-    "name": "Spring Clover Sprout",
-    "group": "Limited",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/83/Netease-Clover-Hairpin-Icon-777-Ed.png",
-    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/05/Clover-Head-Accessory.png",
-    "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/NetEase/Tree_Planting_Day#Clover_Head_Accessory"
-    },
-    "order": 7900
-  },
-  {
     "id": 3147,
     "guid": "VRB1mcOeYv",
     "type": "Cape",
@@ -321,5 +308,35 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Premium_Candle_Shop#Secret_Area"
     }
+  },
+  {
+    "id": 3332,
+    "guid": "Ur2MI4279X",
+    "type": "HairAccessory",
+    "name": "Sunflower Headband"
+  },
+  {
+    "id": 3133,
+    "guid": "-0MdVdgbqv",
+    "type": "HairAccessory",
+    "name": "Spring Clover Sprout",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/83/Netease-Clover-Hairpin-Icon-777-Ed.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/05/Clover-Head-Accessory.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/NetEase/Tree_Planting_Day#Clover_Head_Accessory"
+    },
+    "order": 7900
+  },
+  {
+    "id": 3334,
+    "guid": "PTMb3EIBmD",
+    "type": "Necklace",
+    "name": "Sunflower Neck Tie"
+  },
+  {
+    "id": 3335,
+    "guid": "phxE9BqJEg",
+    "type": "Outfit",
+    "name": "Sunflower Dress"
   }
 ]
