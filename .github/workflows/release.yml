@@ -4,9 +4,18 @@ on:
   workflow_dispatch:
     inputs:
       publish:
-        description: 'Bump the patch version and publish to npm'
+        description: 'Publish to npm'
         type: boolean
         default: true
+      bump:
+        description: 'Version bump before publishing (none = publish the version already in package.json)'
+        type: choice
+        options:
+          - patch
+          - minor
+          - major
+          - none
+        default: patch
       deploy:
         description: 'Deploy to data.sky-planner.com'
         type: boolean
@@ -41,9 +50,20 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Bump patch version
-        if: inputs.publish
-        run: npm version patch
+      - name: Bump version
+        if: inputs.publish && inputs.bump != 'none'
+        run: npm version ${{ inputs.bump }}
+
+      # Without a bump, tag the current version (unless already tagged) so it is still pushed below.
+      - name: Tag current version
+        if: inputs.publish && inputs.bump == 'none'
+        run: |
+          VERSION="v$(node -p "require('./package.json').version")"
+          if git ls-remote --exit-code --tags origin "refs/tags/$VERSION" > /dev/null; then
+            echo "Tag $VERSION already exists on origin."
+          else
+            git tag -a "$VERSION" -m "${VERSION#v}"
+          fi
 
       - name: Publish
         if: inputs.publish
