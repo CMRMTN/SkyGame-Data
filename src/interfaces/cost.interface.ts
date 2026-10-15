@@ -11,4 +11,6 @@ export interface ICost {
   ac?: number;
   /** Cost in event currency. */
   ec?: number;
+  /** Cost in loyalty points. */
+  lp?: number;
 }
