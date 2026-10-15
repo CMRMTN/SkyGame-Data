@@ -211,8 +211,7 @@
   {
     "id": 1130,
     "guid": "YzY-N81J1l",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Bearhug",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Bearhug_Hermit#Friend_Action"

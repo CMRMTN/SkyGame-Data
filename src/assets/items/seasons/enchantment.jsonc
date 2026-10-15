@@ -794,8 +794,7 @@
   {
     "id": 986,
     "guid": "PkKzcwatL6",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Play Fight",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Playfighting_Herbalist#Friend_Action"
@@ -892,8 +891,7 @@
   {
     "id": 3173,
     "guid": "U3YshimiUo",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Play Fight",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Playfighting_Herbalist#Friend_Action"
@@ -904,8 +902,7 @@
   {
     "id": 3174,
     "guid": "XH9iJLNF4F",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Play Fight",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Playfighting_Herbalist#Friend_Action"

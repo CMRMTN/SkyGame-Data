@@ -438,8 +438,7 @@
   {
     "id": 2008,
     "guid": "SxBmlA58uo",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Cradle Carry",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Feudal_Lord#Friend_Action"

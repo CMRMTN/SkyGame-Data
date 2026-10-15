@@ -185,8 +185,7 @@
   {
     "id": 1651,
     "guid": "qwdvtBnaPL",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Side Hug",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Reassuring_Ranger#Expression"

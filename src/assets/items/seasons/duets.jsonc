@@ -591,8 +591,7 @@
   {
     "id": 2303,
     "guid": "itrEoHB72a",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Duet Bow",
     "level": 2,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b4/Duets-Guide-Action-icon.png",
@@ -627,8 +626,7 @@
   {
     "id": 3151,
     "guid": "PeEt2Wdee8",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Duet Bow",
     "level": 3,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b4/Duets-Guide-Action-icon.png",
@@ -639,8 +637,7 @@
   {
     "id": 3152,
     "guid": "aDHnv20PVR",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Duet Bow",
     "level": 4,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b4/Duets-Guide-Action-icon.png",

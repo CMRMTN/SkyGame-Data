@@ -106,8 +106,7 @@
   {
     "id": 2945,
     "guid": "JVyiutV_rJ",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Whispering",
     "level": 2,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Lightmending-Light-Scholar-Emote-icon.png",
@@ -119,8 +118,7 @@
   {
     "id": 2946,
     "guid": "tvP_BdKeGx",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Whispering",
     "level": 3,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Lightmending-Light-Scholar-Emote-icon.png",
@@ -169,8 +167,7 @@
   {
     "id": 2950,
     "guid": "hdBoIp8DSt",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Whispering",
     "level": 4,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Lightmending-Light-Scholar-Emote-icon.png",
@@ -247,8 +244,7 @@
   {
     "id": 2957,
     "guid": "ls4f2BZMa1",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Secret Handshake",
     "level": 2,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Lightmending-Light-Catcher-Emote-icon.png",
@@ -260,8 +256,7 @@
   {
     "id": 2958,
     "guid": "aTjwu2WW5P",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Secret Handshake",
     "level": 3,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Lightmending-Light-Catcher-Emote-icon.png",
@@ -314,8 +309,7 @@
   {
     "id": 2962,
     "guid": "1FdKshQoK5",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Secret Handshake",
     "level": 4,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/23/Lightmending-Light-Catcher-Emote-icon.png",
@@ -394,8 +388,7 @@
   {
     "id": 2970,
     "guid": "qo1qe-9isU",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Revolving Dance",
     "level": 2,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Lightmending-Champion-Emote-icon.png",
@@ -407,8 +400,7 @@
   {
     "id": 2971,
     "guid": "yTVzbInwXw",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Revolving Dance",
     "level": 3,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Lightmending-Champion-Emote-icon.png",
@@ -446,8 +438,7 @@
   {
     "id": 2975,
     "guid": "EFu-yq3gzB",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Revolving Dance",
     "level": 4,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Lightmending-Champion-Emote-icon.png",

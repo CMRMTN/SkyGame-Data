@@ -298,8 +298,7 @@
   {
     "id": 1430,
     "guid": "LYyK5T92ij",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Handshake",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Frantic_Stagehand#Friend_Action"
@@ -746,8 +745,7 @@
   {
     "id": 1466,
     "guid": "LTHqUonVhP",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Duet Dance",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Modest_Dancer#Friend_Action"

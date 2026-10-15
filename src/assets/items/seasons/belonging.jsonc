@@ -707,8 +707,7 @@
   {
     "id": 837,
     "guid": "0f9auBppfc",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Hair Tousle",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Hairtousle_Teen#Friend_Action"

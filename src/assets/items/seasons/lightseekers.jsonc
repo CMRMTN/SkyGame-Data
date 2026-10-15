@@ -71,8 +71,7 @@
   {
     "id": 713,
     "guid": "HtVnkK980q",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Piggyback",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Piggyback_Lightseeker#Friend_Action"
@@ -185,8 +184,7 @@
   {
     "id": 722,
     "guid": "nfeBnolyEY",
-    "type": "Emote",
-    "subtype": "FriendEmote",
+    "type": "Special",
     "name": "Double-Five",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Doublefive_Light_Catcher#Friend_Action"
