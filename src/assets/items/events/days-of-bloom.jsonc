@@ -9,7 +9,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2021#Pink_Bloom_Cape"
     },
-    "order": 13100
+    "order": 13300
   },
   {
     "id": 1765,
@@ -39,7 +39,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2021#Pink_Bloom_Teaset"
     },
-    "order": 3600
+    "order": 3900
   },
   {
     "id": 1767,
@@ -65,7 +65,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2022#Purple_Bloom_Cape"
     },
-    "order": 13200
+    "order": 13400
   },
   {
     "id": 1770,
@@ -90,7 +90,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2022#Purple_Bloom_Teaset"
     },
-    "order": 3800
+    "order": 4100
   },
   {
     "id": 1772,
@@ -109,7 +109,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2023#Red_Bloom_Cape"
     },
-    "order": 13300
+    "order": 13500
   },
   {
     "id": 1774,
@@ -121,7 +121,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2023#Bloom_Butterfly_Fountain"
     },
-    "order": 6000
+    "order": 5800
   },
   {
     "id": 1775,
@@ -164,7 +164,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom#Bloom_Picnic_Basket"
     },
-    "order": 3900
+    "order": 4200
   },
   {
     "id": 2075,
@@ -173,7 +173,7 @@
     "name": "Bloom Lilypad Umbrella",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/93/Bloom-Lilypad-Umbrella-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/db/Bloom-Lilypad-Umbrella-held.png",
-    "order": 5000,
+    "order": 5200,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2024#Bloom_Lilypad_Umbrella"
     }
@@ -185,7 +185,7 @@
     "name": "Bloom Arum Petal Cape",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/14/Bloom-Arum-Petal-Cape-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/07/Bloom-Arum-Petal-Cape-back.png",
-    "order": 13400,
+    "order": 13600,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2024#Bloom_Arum_Petal_Cape"
     }
@@ -255,7 +255,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Bloom_rosecape.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Bloom_rosecape.jpg"
     },
-    "order": 13500,
+    "order": 13700,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2025#Bloom_Rose-Embroidered_Cape"
     }
@@ -273,7 +273,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Bloom_rosemask.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/mask/2slots_Bloom_rosemask.jpg"
     },
-    "order": 10700,
+    "order": 10800,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2025#Bloom_Rose_Petal_Mask"
     }
@@ -318,7 +318,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Bloom_Green_Tunic_Body"
     },
-    "order": 4700
+    "order": 4600
   },
   {
     "id": 3049,
@@ -342,7 +342,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Bloom_Sunflower_Cape"
     },
-    "order": 13600
+    "order": 13800
   },
   {
     "id": 3051,
@@ -354,7 +354,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Bloom_Sunflower_Sundress"
     },
-    "order": 4600
+    "order": 4500
   },
   {
     "id": 3052,
@@ -366,7 +366,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Bloom_Sunflower_Umbrella"
     },
-    "order": 5100
+    "order": 5300
   },
   {
     "id": 3053,
@@ -378,7 +378,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Bloom_Sunflower_Studs"
     },
-    "order": 2300
+    "order": 2500
   },
   {
     "id": 3054,
@@ -409,7 +409,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Sunflower_Ladder"
     },
-    "order": 11200
+    "order": 12000
   },
   {
     "id": 3057,
@@ -421,7 +421,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Sunflower_Round_Table"
     },
-    "order": 11100
+    "order": 11900
   },
   {
     "id": 3058,

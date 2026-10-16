@@ -127,7 +127,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Guide#Nesting_Ultimate_Prop"
     },
-    "order": 11200
+    "order": 11100
   },
   {
     "id": 2165,
@@ -160,7 +160,7 @@
     "name": "Nesting Nook Couch",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8e/Nesting-Nook-Loveseat-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b9/Nesting-Nook-Loveseat-Prop.png",
-    "order": 9100,
+    "order": 9900,
     "dye": {
       "previewUrl": "",
       "infoUrl": "",
@@ -188,7 +188,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Nook#Shelf"
     },
-    "order": 9400
+    "order": 9300
   },
   {
     "id": 2096,
@@ -206,7 +206,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Nook#Spice_Rack"
     },
-    "order": 9700
+    "order": 9600
   },
   {
     "id": 2097,
@@ -262,7 +262,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Solarium#Table"
     },
-    "order": 9000
+    "order": 9800
   },
   {
     "id": 2102,
@@ -277,7 +277,7 @@
       "primary": {},
       "secondary": {}
     },
-    "order": 9300,
+    "order": 10100,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Solarium#Bathtub"
     },
@@ -293,7 +293,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Solarium#Hanging_Planter"
     },
-    "order": 9500
+    "order": 10300
   },
   {
     "id": 2104,
@@ -305,7 +305,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Solarium#Painting"
     },
-    "order": 9600,
+    "order": 9500,
     "group": "SeasonPass"
   },
   {
@@ -356,7 +356,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Atrium#Hanging_Lamp"
     },
-    "order": 9200,
+    "order": 10000,
     "group": "SeasonPass"
   },
   {
@@ -369,7 +369,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Atrium#Branch"
     },
-    "order": 9400,
+    "order": 10200,
     "group": "SeasonPass"
   },
   {
@@ -382,7 +382,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Atrium#Floor_Light"
     },
-    "order": 9800
+    "order": 9700
   },
   {
     "id": 2112,
@@ -463,7 +463,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Loft#Bed"
     },
-    "order": 8800,
+    "order": 9600,
     "group": "SeasonPass"
   },
   {
@@ -481,7 +481,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Loft#Chair"
     },
-    "order": 8900
+    "order": 9700
   },
   {
     "id": 2120,
@@ -493,7 +493,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Loft#Paintings"
     },
-    "order": 9500
+    "order": 9400
   },
   {
     "id": 2121,
@@ -543,7 +543,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Stool"
     },
-    "order": 5400
+    "order": 6200
   },
   {
     "id": 2130,
@@ -555,7 +555,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Single_Bench"
     },
-    "order": 5500
+    "order": 6300
   },
   {
     "id": 2131,
@@ -567,7 +567,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Wood-Fired_Oven"
     },
-    "order": 7500
+    "order": 8300
   },
   {
     "id": 2132,
@@ -585,7 +585,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Single_Bed"
     },
-    "order": 6900
+    "order": 7700
   },
   {
     "id": 2133,
@@ -597,7 +597,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Tall_Cube"
     },
-    "order": 7900
+    "order": 8700
   },
   {
     "id": 2134,
@@ -609,7 +609,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Chair"
     },
-    "order": 5600
+    "order": 6400
   },
   {
     "id": 2135,
@@ -621,7 +621,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Small_Table"
     },
-    "order": 6200
+    "order": 7000
   },
   {
     "id": 2136,
@@ -639,7 +639,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Tall_Shelf"
     },
-    "order": 7000
+    "order": 7800
   },
   {
     "id": 2137,
@@ -651,7 +651,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Decor_Pillow_One_Color"
     },
-    "order": 7600
+    "order": 7500
   },
   {
     "id": 2149,
@@ -663,7 +663,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Bench"
     },
-    "order": 5900
+    "order": 6700
   },
   {
     "id": 2150,
@@ -675,7 +675,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Desk"
     },
-    "order": 6600
+    "order": 7400
   },
   {
     "id": 2151,
@@ -693,7 +693,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Decor_Pillow_Two_Colors"
     },
-    "order": 7700
+    "order": 7600
   },
   {
     "id": 2152,
@@ -705,7 +705,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Small_Solid_Rug"
     },
-    "order": 8100
+    "order": 8000
   },
   {
     "id": 2153,
@@ -723,7 +723,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Armchair"
     },
-    "order": 5700
+    "order": 6500
   },
   {
     "id": 2154,
@@ -735,7 +735,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Console_Table"
     },
-    "order": 6700
+    "order": 7500
   },
   {
     "id": 2155,
@@ -753,7 +753,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Decor_Folded_Cloth"
     },
-    "order": 7800
+    "order": 7700
   },
   {
     "id": 2156,
@@ -765,7 +765,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Small_Stripes_Rug"
     },
-    "order": 8200
+    "order": 8100
   },
   {
     "id": 2157,
@@ -783,7 +783,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Loveseat"
     },
-    "order": 5800
+    "order": 6600
   },
   {
     "id": 2158,
@@ -801,7 +801,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Round_Dining_Table"
     },
-    "order": 6400
+    "order": 7200
   },
   {
     "id": 2159,
@@ -813,7 +813,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Plant_Stand"
     },
-    "order": 8000
+    "order": 8800
   },
   {
     "id": 2160,
@@ -831,7 +831,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Small_Classic_Rug"
     },
-    "order": 8300
+    "order": 8200
   },
   {
     "id": 2161,
@@ -843,7 +843,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Sofa_Corner"
     },
-    "order": 6000
+    "order": 6800
   },
   {
     "id": 2162,
@@ -861,7 +861,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Square_Dining_Table"
     },
-    "order": 6300
+    "order": 7100
   },
   {
     "id": 2163,
@@ -873,7 +873,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Wall_Sconce"
     },
-    "order": 8000
+    "order": 7900
   },
   {
     "id": 2164,
@@ -885,7 +885,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Small_Semicircle_Rug"
     },
-    "order": 8400
+    "order": 8300
   },
   {
     "id": 2171,
@@ -897,7 +897,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Sofa_Side"
     },
-    "order": 6100
+    "order": 6900
   },
   {
     "id": 2172,
@@ -915,7 +915,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Long_Dining_Table"
     },
-    "order": 6500
+    "order": 7300
   },
   {
     "id": 2173,
@@ -933,7 +933,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Small_Bathtub"
     },
-    "order": 7100
+    "order": 7900
   },
   {
     "id": 2174,
@@ -945,7 +945,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Medium_Solid_Rug"
     },
-    "order": 8500
+    "order": 8400
   },
   {
     "id": 2175,
@@ -957,7 +957,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Kitchen_Drawers"
     },
-    "order": 7600
+    "order": 8400
   },
   {
     "id": 2176,
@@ -975,7 +975,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Coffee_Table"
     },
-    "order": 6800
+    "order": 7600
   },
   {
     "id": 2177,
@@ -987,7 +987,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Candle_Light"
     },
-    "order": 8100
+    "order": 8900
   },
   {
     "id": 2178,
@@ -999,7 +999,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Medium_Stripes_Rug"
     },
-    "order": 8600
+    "order": 8500
   },
   {
     "id": 2180,
@@ -1011,7 +1011,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Wall_Pot_Rack"
     },
-    "order": 7100
+    "order": 7000
   },
   {
     "id": 2181,
@@ -1023,7 +1023,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Closed_Box"
     },
-    "order": 7400
+    "order": 7300
   },
   {
     "id": 2182,
@@ -1035,7 +1035,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Washstand"
     },
-    "order": 7300
+    "order": 8100
   },
   {
     "id": 2183,
@@ -1053,7 +1053,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Medium_Diamonds_Rug"
     },
-    "order": 8700
+    "order": 8600
   },
   {
     "id": 2184,
@@ -1149,7 +1149,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Music_Player"
     },
-    "order": 6300
+    "order": 6100
   },
   {
     "id": 2194,
@@ -1210,7 +1210,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Figurine"
     },
-    "order": 9200
+    "order": 9100
   },
   {
     "id": 2202,
@@ -1271,7 +1271,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Instrument_Stand"
     },
-    "order": 11300
+    "order": 11200
   },
   {
     "id": 2215,
@@ -1283,7 +1283,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Empty_Box"
     },
-    "order": 7300
+    "order": 7200
   },
   {
     "id": 2216,
@@ -1295,7 +1295,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Wall_Mirror"
     },
-    "order": 6900
+    "order": 6800
   },
   {
     "id": 2217,
@@ -1313,7 +1313,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Medium_Argyle_Rug"
     },
-    "order": 8800
+    "order": 8700
   },
   {
     "id": 2218,
@@ -1325,7 +1325,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Wall_Mug_Rack"
     },
-    "order": 7200
+    "order": 7100
   },
   {
     "id": 2219,
@@ -1337,7 +1337,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Wall_Towel_Rack"
     },
-    "order": 7000
+    "order": 6900
   },
   {
     "id": 2220,
@@ -1349,7 +1349,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Medium_Circle_Rug"
     },
-    "order": 8900
+    "order": 8800
   },
   {
     "id": 2222,
@@ -1361,7 +1361,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Kitchen_Cabinet"
     },
-    "order": 7700
+    "order": 8500
   },
   {
     "id": 2223,
@@ -1373,7 +1373,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Wall_Shelf"
     },
-    "order": 7500
+    "order": 7400
   },
   {
     "id": 2224,
@@ -1385,7 +1385,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Large_Solid_Rug"
     },
-    "order": 9000
+    "order": 8900
   },
   {
     "id": 2225,
@@ -1397,7 +1397,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Kitchen_Stove"
     },
-    "order": 7400
+    "order": 8200
   },
   {
     "id": 2226,
@@ -1409,7 +1409,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Wide_Cube"
     },
-    "order": 7800
+    "order": 8600
   },
   {
     "id": 2227,
@@ -1427,7 +1427,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Large_Bathtub"
     },
-    "order": 7200
+    "order": 8000
   },
   {
     "id": 2228,
@@ -1439,7 +1439,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Large_Circle_Rug"
     },
-    "order": 9100
+    "order": 9000
   },
   {
     "id": 3060,
@@ -1451,6 +1451,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Candle_Holder"
     },
-    "order": 7900
+    "order": 7800
   }
 ]

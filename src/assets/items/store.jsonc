@@ -114,7 +114,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nintendo_Pack"
     },
-    "order": 18500
+    "order": 18700
   },
   {
     "id": 1944,
@@ -126,7 +126,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nintendo_Pack"
     },
-    "order": 18400
+    "order": 18600
   },
   {
     "id": 1945,
@@ -138,7 +138,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_for_Nintendo_Switch#Nintendo_Pack"
     },
-    "order": 18300
+    "order": 18400
   },
   {
     "id": 1946,
@@ -163,7 +163,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Aviary%27s_Firework_Festival#Sparrow_Appreciation_Pack"
     },
-    "order": 18100
+    "order": 18300
   },
   {
     "id": 1960,
@@ -175,7 +175,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Aviary%27s_Firework_Festival#Sparrow_Appreciation_Pack"
     },
-    "order": 11000
+    "order": 11400
   },
   {
     "id": 1961,
@@ -187,7 +187,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Aviary%27s_Firework_Festival#Moth_Appreciation_Pack"
     },
-    "order": 8300
+    "order": 8600
   },
   {
     "id": 1962,
@@ -199,7 +199,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Aviary%27s_Firework_Festival#Moth_Appreciation_Pack"
     },
-    "order": 18200
+    "order": 18400
   },
   {
     "id": 1947,
@@ -211,7 +211,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_for_PlayStation#Journey_Pack"
     },
-    "order": 11100
+    "order": 11500
   },
   {
     "id": 1948,
@@ -223,7 +223,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_for_PlayStation#Journey_Pack"
     },
-    "order": 18600
+    "order": 18800
   },
   {
     "id": 1949,
@@ -235,7 +235,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_for_PlayStation#Journey_Pack"
     },
-    "order": 18400
+    "order": 18500
   },
   {
     "id": 2408,
@@ -247,7 +247,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Mask_Hanger"
     },
-    "order": 9300
+    "order": 9200
   },
   {
     "id": 2543,
@@ -259,7 +259,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_for_PlayStation#Transcendent_Journey_Pack"
     },
-    "order": 18700
+    "order": 18900
   },
   {
     "id": 2544,
@@ -271,7 +271,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_for_PlayStation#Transcendent_Journey_Pack"
     },
-    "order": 18500
+    "order": 18600
   },
   {
     "id": 2545,
@@ -283,7 +283,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_for_PlayStation#Transcendent_Journey_Pack"
     },
-    "order": 11200
+    "order": 11600
   },
   {
     "id": 3147,
@@ -292,7 +292,7 @@
     "name": "FlOw Cape",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/04/FlOw-Cape-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0e/TGC_20_Year_Anniversary_FlOw_Cape_back.png",
-    "order": 18800,
+    "order": 19000,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Premium_Candle_Shop#Secret_Area"
     }
@@ -304,7 +304,7 @@
     "name": "Flower Hair Accessory",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b1/Flower-hair-accessory-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9d/TGC_20_Year_Anniversary_Flower_Hair_Accessory_side.png",
-    "order": 8200,
+    "order": 8500,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Premium_Candle_Shop#Secret_Area"
     }
@@ -314,7 +314,7 @@
     "guid": "Ur2MI4279X",
     "type": "HairAccessory",
     "name": "Sunflower Headband",
-    "order": 8500
+    "order": 8800
   },
   {
     "id": 3133,
@@ -326,20 +326,20 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/NetEase/Tree_Planting_Day#Clover_Head_Accessory"
     },
-    "order": 7900
+    "order": 8200
   },
   {
     "id": 3334,
     "guid": "PTMb3EIBmD",
     "type": "Necklace",
     "name": "Sunflower Neck Tie",
-    "order": 5900
+    "order": 6000
   },
   {
     "id": 3335,
     "guid": "phxE9BqJEg",
     "type": "Outfit",
     "name": "Sunflower Dress",
-    "order": 3400
+    "order": 7000
   }
 ]

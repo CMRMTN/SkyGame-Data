@@ -13,7 +13,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2021#Days_of_Fortune_Bull_Mask"
     },
-    "order": 9200
+    "order": 9300
   },
   {
     "id": 1724,
@@ -65,7 +65,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2021#Days_of_Fortune_Pack"
     },
-    "order": 12700
+    "order": 12900
   },
   {
     "id": 1728,
@@ -83,7 +83,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2021#Days_of_Fortune_Pack"
     },
-    "order": 9100
+    "order": 9200
   },
   {
     "id": 1729,
@@ -111,7 +111,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2022#Days_of_Fortune_Tiger_Mask"
     },
-    "order": 9300
+    "order": 9400
   },
   {
     "id": 1731,
@@ -139,7 +139,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2022#Days_of_Fortune_Fish_Pack"
     },
-    "order": 12800
+    "order": 13000
   },
   {
     "id": 1733,
@@ -183,7 +183,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2023#Days_of_Fortune_Enchanted_Umbrella"
     },
-    "order": 4700
+    "order": 4900
   },
   {
     "id": 1736,
@@ -199,7 +199,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2023#Days_of_Fortune_Rabbit_Mask"
     },
-    "order": 9400
+    "order": 9500
   },
   {
     "id": 1737,
@@ -305,7 +305,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Fortune_DragonCape.jpg"
     },
-    "order": 12900,
+    "order": 13100,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2024#Days_of_Fortune_Dragon_Stole"
     }
@@ -317,7 +317,7 @@
     "name": "Fortune Dragon Bangles",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a3/Fortune-Dragon-Bangles-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/69/Fortune-Dragon-Bangles.png",
-    "order": 1400,
+    "order": 1500,
     "dye": {
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/head-accessory/Fortune_dragonearrings.jpg"
@@ -337,7 +337,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Fortune_dragon.jpg"
     },
-    "order": 9500,
+    "order": 9600,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2024#Fortune_Dragon_Mask"
     }
@@ -399,7 +399,7 @@
     "name": "Fortune Snake Cloak",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/87/Days-of-Fortune-Snake-Cloak-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6e/Days-of-Fortune-Snake-Cloak-back.png",
-    "order": 13000,
+    "order": 13200,
     "dye": {
       "primary": {},
       "secondary": {},
@@ -417,7 +417,7 @@
     "name": "Fortune Hand Fan",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f2/Days-of-Fortune-Hand-Fan-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/57/Days-of-Fortune-Hand-Fan-Prop.png",
-    "order": 4800,
+    "order": 5000,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2025#Fortune_Hand_Fan"
     }
@@ -432,7 +432,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2025#Fortune_Candle_Flags_Prop"
     },
-    "order": 11000
+    "order": 11800
   },
   {
     "id": 2505,
@@ -472,7 +472,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2025#Fortune_Plant_Prop"
     },
-    "order": 10800
+    "order": 11600
   },
   {
     "id": 2510,
@@ -484,7 +484,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2025#Fortune_Vertical_Poster_Prop"
     },
-    "order": 10900
+    "order": 11700
   },
   {
     "id": 2511,
@@ -493,7 +493,7 @@
     "name": "Fortune Snake Outfit",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1d/Fortune-Snake-Pants-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bf/Fortune-Snake-Pants.png",
-    "order": 6400,
+    "order": 6500,
     "dye": {
       "primary": {},
       "secondary": {},
@@ -511,7 +511,7 @@
     "name": "Fortune Snake Mask",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e0/Days-of-Fortune-Snake-Mask-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/55/Days-of-Fortune-Snake-Mask.png",
-    "order": 9600,
+    "order": 9700,
     "dye": {
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Fortune_snake.jpg"
@@ -542,7 +542,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2026#Fortune_Plush_Mount"
     },
-    "order": 6000
+    "order": 6200
   },
   {
     "id": 3017,
@@ -576,7 +576,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2026#Fortune_Ribboned_Ponytail"
     },
-    "order": 17900
+    "order": 18000
   },
   {
     "id": 3019,
@@ -604,7 +604,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2026#Fortune_Horse_Mask"
     },
-    "order": 10900
+    "order": 11000
   },
   {
     "id": 3021,
@@ -616,7 +616,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2026#Fortune_Carousel_Music_Box"
     },
-    "order": 3250
+    "order": 3500
   },
   {
     "id": 3022,
@@ -634,6 +634,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Fortune/2026#Fortune_Horse_Cape"
     },
-    "order": 18000
+    "order": 18200
   }
 ]

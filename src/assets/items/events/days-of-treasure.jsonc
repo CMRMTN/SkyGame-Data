@@ -6,7 +6,7 @@
     "name": "Treasure Seeker's Bounty Outfit",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/50/Days-of-Treasure-Outfit-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1a/Days-of-Treasure-Outfit-front.png",
-    "order": 5400,
+    "order": 5300,
     "dye": {
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Treasure_pants.jpg"
@@ -22,7 +22,7 @@
     "name": "Treasure Cavalier Boots",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/72/Days-of-Treasure-Shoes-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3a/Days-of-Treasure-Shoes.png",
-    "order": 2500,
+    "order": 2600,
     "dye": {
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/shoes/Treasure_boots.jpg"
@@ -38,7 +38,7 @@
     "name": "Treasure Shovel",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/52/Days-of-Treasure-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bc/Days-of-Treasure-Prop.png",
-    "order": 5900,
+    "order": 6100,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure/2025#Treasure_Shovel"
     }
@@ -50,7 +50,7 @@
     "name": "Treasure Seeker's Bounty Mask",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5e/Days-of-Treasure-Mask-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/93/Days-of-Treasure-Mask.png",
-    "order": 10800,
+    "order": 10900,
     "dye": {
       "primary": {},
       "secondary": {},
@@ -105,7 +105,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure/2026#Adventurer%E2%80%99s_Garb"
     },
-    "order": 6700
+    "order": 6800
   },
   {
     "id": 3135,
@@ -121,7 +121,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure/2026#Treasure_Seeker%E2%80%99s_Bandana"
     },
-    "order": 18000
+    "order": 18100
   },
   {
     "id": 3136,
@@ -138,7 +138,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure/2026#Treasure_Seeker%E2%80%99s_Banner"
     },
-    "order": 12200
+    "order": 13000
   },
   {
     "id": 3137,
@@ -150,7 +150,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure/2026#Treasure_Mate_Companion"
     },
-    "order": 5300
+    "order": 5400
   },
   {
     "id": 3138,
@@ -166,7 +166,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure/2026#Treasure_Seeker%E2%80%99s_Hat"
     },
-    "order": 7700
+    "order": 8000
   },
   {
     "id": 3139,
@@ -184,7 +184,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure/2026#Treasure_Coin_Cape"
     },
-    "order": 18900
+    "order": 19100
   },
   {
     "id": 3140,
@@ -202,7 +202,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure/2026#Naptime_Galley"
     },
-    "order": 11300
+    "order": 12100
   },
   {
     "id": 3141,

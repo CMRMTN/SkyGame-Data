@@ -43,7 +43,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/AURORA_Guide#Ultimate_Gifts"
     },
-    "order": 1700
+    "order": 1600
   },
   {
     "id": 551,
@@ -285,7 +285,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/AURORA_Guide#Outfit"
     },
-    "order": 1800
+    "order": 1700
   },
   {
     "id": 573,
@@ -539,7 +539,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Mindful_Miner#Outfit"
     },
-    "order": 1400,
+    "order": 1300,
     "group": "SeasonPass"
   },
   {
@@ -877,7 +877,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_AURORA#Runaway_Outfit"
     },
-    "order": 1500
+    "order": 1400
   },
   {
     "id": 1557,
@@ -890,7 +890,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/AURORA_Concert#To_The_Love_Outfit"
     },
-    "order": 1600
+    "order": 1500
   },
   {
     "id": 1558,
@@ -943,7 +943,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/AURORA_Encore_Concerts#Musical_Voyage_Sneakers"
     },
-    "order": 2400
+    "order": 2500
   },
   {
     "id": 1562,

@@ -16,7 +16,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2022#Jelly_Shoulder_Buddy"
     },
-    "order": 4800
+    "order": 4900
   },
   {
     "id": 1914,
@@ -33,7 +33,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2022#Campfire_Tent"
     },
-    "order": 3700
+    "order": 4000
   },
   {
     "id": 1915,
@@ -45,7 +45,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2022#Campfire_Snack_Kit"
     },
-    "order": 5900
+    "order": 5700
   },
   {
     "id": 1916,
@@ -57,7 +57,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2023#Sunlight_Pink_Beach_Towel_Cape"
     },
-    "order": 15500
+    "order": 15700
   },
   {
     "id": 1917,
@@ -69,7 +69,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2023#Sunlight_Yellow_Beach_Towel_Cape"
     },
-    "order": 15600
+    "order": 15800
   },
   {
     "id": 1918,
@@ -81,7 +81,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2023#Sunlight_Blue_Beach_Towel_Cape"
     },
-    "order": 15400
+    "order": 15600
   },
   {
     "id": 1919,
@@ -125,7 +125,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2023#Sunlight_Surfboard"
     },
-    "order": 6600
+    "order": 6400
   },
   {
     "id": 2289,
@@ -140,7 +140,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Sunlight_manta.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Sunlight_manta.jpg"
     },
-    "order": 15800,
+    "order": 16000,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2024#Sunlight_Woven_Wrap"
     }
@@ -152,7 +152,7 @@
     "name": "Sunlight Helios Hoops",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fc/Sunlight-Helios-Hoops-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/98/Sunlight-Helios-Hoops.png",
-    "order": 1900,
+    "order": 2000,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2024#Sunlight_Helios_Hoops"
     }
@@ -182,7 +182,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Sunlight_dadpants.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Sunlight_dadpants.jpg"
     },
-    "order": 5500,
+    "order": 5400,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2024#Sunlight_Beach_Shorts"
     }
@@ -201,7 +201,7 @@
     "name": "Sunlight Bonnet",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f4/Sunlight-Bonnet-Hat-Icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/57/Sunlight-Bonnet-Hat-front.png",
-    "order": 8400,
+    "order": 8700,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sunlight_Bonnet_Bundle"
     }
@@ -217,7 +217,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Sunlight_toga.jpg"
     },
-    "order": 5600,
+    "order": 5500,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sunlight_Bonnet_Bundle"
     }
@@ -229,7 +229,7 @@
     "name": "Sunlight Wave Projector",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bd/Sunlight-Wave-Projector-Icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/ce/Sunlight-Wave-Projector.png",
-    "order": 3000,
+    "order": 2900,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sunlight_Wave_Projector"
     }
@@ -245,7 +245,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Sunlight_teenycape.jpg"
     },
-    "order": 15700,
+    "order": 15900,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sunlight_Shawl_Cape"
     }
@@ -257,7 +257,7 @@
     "name": "Sandcastle Small Tower",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d5/Sancastle-Small-Tower-Piece-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0b/Sancastle-Small-Tower-Piece.png",
-    "order": 3100,
+    "order": 3000,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sandcastle_Piece_Props"
     }
@@ -269,7 +269,7 @@
     "name": "Sandcastle Large Tower",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/64/Sancastle-Large-Tower-Piece-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bb/Sancastle-Large-Tower-Piece.png",
-    "order": 3200,
+    "order": 3100,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sandcastle_Piece_Props"
     }
@@ -281,7 +281,7 @@
     "name": "Sandcastle Small Gate",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4f/Sancastle-Small-Gate-Piece-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6c/Sancastle-Small-Gate-Piece.png",
-    "order": 3300,
+    "order": 3200,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sandcastle_Piece_Props"
     }
@@ -293,7 +293,7 @@
     "name": "Sandcastle Wall",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/17/Sancastle-Wall-Piece-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/92/Sancastle-Wall-Piece.png",
-    "order": 3400,
+    "order": 3300,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sandcastle_Piece_Props"
     }
@@ -305,7 +305,7 @@
     "name": "Sandcastle Large Gate",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b9/Sancastle-Large-Gate-Piece-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e4/Sancastle-Large-Gate-Piece.png",
-    "order": 3500,
+    "order": 3400,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sandcastle_Piece_Props"
     }
@@ -317,7 +317,7 @@
     "name": "Sandcastle Sand Lot",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e5/Sancastle-Sand-Lot-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ab/Sancastle-Sand-Lot.png",
-    "order": 3600,
+    "order": 3500,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sandcastle_Piece_Props"
     }
@@ -329,7 +329,7 @@
     "name": "Sandcastle Flag",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/18/Sandcastle-Flag-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/ba/Sandcastle-Flag.png",
-    "order": 3700,
+    "order": 3600,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2025#Sandcastle_Piece_Props"
     }
@@ -354,7 +354,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Sunlight_wetsuit.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Sunlight_wetsuit.jpg"
     },
-    "order": 5650,
+    "order": 5600,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2026#Sunlight_Diver_Wetsuit"
     }
@@ -366,7 +366,7 @@
     "name": "Sunlight Diver Flippers",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6f/Sunlight-Diver-Flippers-Icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5f/Sunlight-Diver-Flippers.png",
-    "order": 1750,
+    "order": 1800,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2026#Sunlight_Diver_Flippers"
     }
@@ -378,7 +378,7 @@
     "name": "Sunlight Crab Float",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/47/Sunlight-Crab-Float-Icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/07/Sunlight-Crab-Float-real.png",
-    "order": 5050,
+    "order": 5400,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2026#Sunlight_Crab_Float"
     }
@@ -390,7 +390,7 @@
     "name": "Sunlight Sporty Sunglasses",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/ff/Sunlight-Sporty-Sunglasses-Icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/64/Sunlight-Sporty-Sunglasses-real.png",
-    "order": 6650,
+    "order": 6700,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2026#Sunlight_Sporty_Sunglasses"
     }
@@ -402,7 +402,7 @@
     "name": "Sunlight Surfer Hair",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9e/Sunlight-Surfer-Hair-Icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6f/Sunlight-Surfer-Hair-front.png",
-    "order": 16150,
+    "order": 16200,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2026#Sunlight_Surfer_Hair"
     }
@@ -414,7 +414,7 @@
     "name": "Sunlight Sporty Surfboard",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/13/Sunlight-Sporty-Surfboard-Icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/14/Sunlight-Sporty-Surfboard.png",
-    "order": 6650,
+    "order": 6500,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2026#Sunlight_Sporty_Surfboard"
     }
@@ -426,7 +426,7 @@
     "name": "Sunlight Snorkel",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6f/Sunlight-Snorkel-Mask-Icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/82/Sunlight-Snorkel-Mask-real.png",
-    "order": 10950,
+    "order": 11100,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Sunlight/2026#Sunlight_Snorkel_Mask"
     }

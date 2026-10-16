@@ -131,7 +131,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Vase_with_Fifteen_Sunflowers#Ultimate_Gifts"
     },
-    "order": 12200
+    "order": 12300
   },
   {
     "id": 3205,
@@ -195,7 +195,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Vase_with_Fifteen_Sunflowers#Ultimate_Gifts"
     },
-    "order": 2650
+    "order": 2700
   },
   {
     "id": 3209,
@@ -286,7 +286,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Artistic_Memory#Prop"
     },
-    "order": 2900
+    "order": 2800
   },
   {
     "id": 3218,
@@ -325,7 +325,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Artistic_Memory#Cape"
     },
-    "order": 12400
+    "order": 12600
   },
   {
     "id": 3222,
@@ -370,7 +370,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dutch_Memory#Prop"
     },
-    "order": 2800
+    "order": 2700
   },
   {
     "id": 3227,
@@ -436,7 +436,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dutch_Memory#Cape"
     },
-    "order": 12500
+    "order": 12700
   },
   {
     "id": 3233,
@@ -461,7 +461,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dutch_Memory#Outfit"
     },
-    "order": 4500
+    "order": 4400
   },
   {
     "id": 3235,
@@ -579,7 +579,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Joyful_Memory#Cape"
     },
-    "order": 12300
+    "order": 12400
   },
   {
     "id": 3246,
@@ -730,7 +730,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Rustic_Memory#Cape"
     },
-    "order": 12600
+    "order": 12800
   },
   {
     "id": 3261,
@@ -750,7 +750,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dear_Van_Gogh#Wheatfield_Cape"
     },
-    "order": 12350
+    "order": 12500
   },
   {
     "id": 3265,
@@ -768,7 +768,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dear_Van_Gogh#Starry_Night's_Visage"
     },
-    "order": 9050
+    "order": 9100
   },
   {
     "id": 3266,
@@ -780,7 +780,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dear_Van_Gogh#Starry_Night's_Kiss"
     },
-    "order": 1350
+    "order": 1400
   },
   {
     "id": 3267,
@@ -792,7 +792,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dear_Van_Gogh#Starry_Night's_Mantle"
     },
-    "order": 12150
+    "order": 12200
   },
   {
     "id": 3268,
@@ -810,7 +810,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dear_Van_Gogh#Starry_Night's_Mantle"
     },
-    "order": 4350
+    "order": 4400
   },
   {
     "id": 3292,
@@ -822,7 +822,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Vase_with_Fifteen_Sunflowers#Easel_Prop"
     },
-    "order": 11750
+    "order": 2800
   },
   {
     "id": 3293,
@@ -834,6 +834,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Dear_Van_Gogh#Starry_Night's_Canopy"
     },
-    "order": 6400
+    "order": 4800
   }
 ]

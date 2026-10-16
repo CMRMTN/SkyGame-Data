@@ -163,7 +163,7 @@
     "name": "Manatee Toy",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/40/Tender-Toymaker-Manatee-Figurine-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b8/Tender-Toymaker-Manatee-Figurine-Prop.png",
-    "order": 4300,
+    "order": 4400,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tender_Toymaker#Prop"
     }
@@ -197,7 +197,7 @@
       "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slot_2E-P1_Toymakerpants.jpg"
     },
     "group": "SeasonPass",
-    "order": 3900,
+    "order": 3800,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tender_Toymaker#Outfit"
     }
@@ -302,7 +302,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ef/Stern-Shepherd-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b9/Stern-Shepherd-Staff-Prop.png",
     "group": "SeasonPass",
-    "order": 4200,
+    "order": 4300,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Stern_Shepherd#Prop"
     }
@@ -376,7 +376,7 @@
       "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slot_2E-P1_Reclusepants.jpg"
     },
     "group": "SeasonPass",
-    "order": 3700,
+    "order": 3600,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Resourceful_Recluse#Outfit"
     }
@@ -497,7 +497,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/2E-P1_Sentrypants.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slot_2E-P1_Sentrypants.jpg"
     },
-    "order": 3800,
+    "order": 3700,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Scarred_Sentry#Outfit"
     }
@@ -522,7 +522,7 @@
     "name": "Scarred Sentry Shield",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bf/Scarred-Sentry-Shield-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Scarred-Sentry-Shield-Prop.png",
-    "order": 4500,
+    "order": 4600,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Scarred_Sentry#Sentry_Shield"
     }
@@ -550,7 +550,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4d/Scarred-Sentry-Spear-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a6/Scarred-Sentry-Spear-Prop.png",
     "group": "SeasonPass",
-    "order": 4400,
+    "order": 4500,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Scarred_Sentry#Sentry_Spear"
     }
@@ -672,7 +672,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_The_Two_Embers_-_Part_1#Spirited_Manatee_Ensemble"
     },
-    "order": 5600
+    "order": 5700
   },
   {
     "id": 2727,
@@ -698,7 +698,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_The_Two_Embers_-_Part_1#Vestige_of_Dark_Dragons"
     },
-    "order": 5500
+    "order": 5600
   },
   {
     "id": 2729,

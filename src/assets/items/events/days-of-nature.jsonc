@@ -9,7 +9,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2020#Earth_Cape"
     },
-    "order": 13700
+    "order": 13900
   },
   {
     "id": 1779,
@@ -21,7 +21,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2021#Ocean_Necklace"
     },
-    "order": 4500,
+    "order": 4600,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Nature_shellnecklace.jpg",
       "primary": {}
@@ -41,7 +41,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2021#Ocean_Cape"
     },
-    "order": 13800
+    "order": 14000
   },
   {
     "id": 1781,
@@ -53,7 +53,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2022#Nature_Turtle_Cape"
     },
-    "order": 13900
+    "order": 14100
   },
   {
     "id": 1782,
@@ -65,7 +65,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2022#Nature_Turtle_Pack"
     },
-    "order": 4600
+    "order": 4700
   },
   {
     "id": 1783,
@@ -107,7 +107,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2023#Nature_School_Cape"
     },
-    "order": 14100
+    "order": 14300
   },
   {
     "id": 1787,
@@ -131,7 +131,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2023#Nature_Sonorous_Seashell"
     },
-    "order": 6100
+    "order": 5900
   },
   {
     "id": 2166,
@@ -143,7 +143,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2024#Nature_Wave_Pack"
     },
-    "order": 14200
+    "order": 14400
   },
   {
     "id": 2167,
@@ -171,7 +171,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2024#Nature_Wave_Mask"
     },
-    "order": 9800
+    "order": 9900
   },
   {
     "id": 2169,
@@ -183,7 +183,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2024#Nature_Wave_Scarf"
     },
-    "order": 4700,
+    "order": 4800,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Nature_Riverscarf.jpg",
       "primary": {}
@@ -217,7 +217,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2025#Ocean_Waves_Outfit"
     },
-    "order": 4800
+    "order": 4700
   },
   {
     "id": 2623,
@@ -248,7 +248,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2025#Ocean_Sea_Foam_Set"
     },
-    "order": 14000
+    "order": 14200
   },
   {
     "id": 2626,
@@ -260,7 +260,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2025#Ocean_Sea_Foam_Set"
     },
-    "order": 2600
+    "order": 2700
   },
   {
     "id": 2627,
@@ -276,7 +276,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2025#Ocean_Waves_Mask"
     },
-    "order": 9900
+    "order": 10000
   },
   {
     "id": 3061,
@@ -288,7 +288,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2026#Nature_Underwater_Hair"
     },
-    "order": 18100
+    "order": 18200
   },
   {
     "id": 3062,
@@ -306,7 +306,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2026#Blue_Flag"
     },
-    "order": 11400
+    "order": 12200
   },
   {
     "id": 3063,
@@ -330,7 +330,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2026#Ocean_Veil_Pack"
     },
-    "order": 7800
+    "order": 8100
   },
   {
     "id": 3065,
@@ -346,7 +346,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Nature_bottledress.jpg"
     },
-    "order": 6800
+    "order": 6900
   },
   {
     "id": 3066,
@@ -358,6 +358,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Nature/2026#Charming_Creature_Pack"
     },
-    "order": 2400
+    "order": 2600
   }
 ]

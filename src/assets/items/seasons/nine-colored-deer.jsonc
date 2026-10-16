@@ -178,7 +178,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Spirit_of_Mural#Nine-Colored_Deer_Ultimate_Outfit"
     },
-    "order": 2300
+    "order": 2200
   },
   {
     "id": 2034,
@@ -234,7 +234,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Herb_Gatherer#Outfit"
     },
-    "order": 2400,
+    "order": 2300,
     "group": "SeasonPass"
   },
   {
@@ -632,7 +632,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Princess#Outfit"
     },
-    "order": 2500
+    "order": 2400
   },
   {
     "id": 2027,
@@ -670,62 +670,60 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cc/Nine-Colored-Deer-seasonal-heart-icon.png",
     "group": "SeasonPass"
   },
-  // #region Special Visit #14
-{
+  {
     "id": 3284,
     "guid": "uXHVKE2AgG",
     "type": "Special",
     "name": "Heart",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
   },
-{
+  {
     "id": 3285,
     "guid": "LJpSY8FZdb",
     "type": "WingBuff",
     "name": "Wing Buff",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/31/Winglight.png"
   },
-{
+  {
     "id": 3286,
     "guid": "COauF66x9N",
     "type": "Special",
     "name": "Heart",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
   },
-{
+  {
     "id": 3287,
     "guid": "9I3_qKrP4G",
     "type": "WingBuff",
     "name": "Wing Buff",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/31/Winglight.png"
   },
-{
+  {
     "id": 3288,
     "guid": "8HjnDXpnAJ",
     "type": "Special",
     "name": "Heart",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
   },
-{
+  {
     "id": 3289,
     "guid": "GHuKao8XDH",
     "type": "WingBuff",
     "name": "Wing Buff",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/31/Winglight.png"
   },
-{
+  {
     "id": 3290,
     "guid": "CCupxwATul",
     "type": "Special",
     "name": "Heart",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
   },
-{
+  {
     "id": 3291,
     "guid": "9o-zXr9Zkk",
     "type": "WingBuff",
     "name": "Wing Buff",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/31/Winglight.png"
   }
-  // #endregion
 ]

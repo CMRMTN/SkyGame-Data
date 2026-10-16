@@ -46,7 +46,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Migration_Guide#Migration_Ultimate_Outfit"
     },
-    "order": 4100
+    "order": 4000
   },
   {
     "id": 2765,
@@ -174,7 +174,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Migrating_Jelly_Whisperer#Outfit"
     },
-    "order": 4200
+    "order": 4100
   },
   {
     "id": 2774,
@@ -558,7 +558,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Migrating_Bird_Whisperer#Outfit"
     },
-    "order": 4000
+    "order": 3900
   },
   {
     "id": 2810,
