@@ -1742,6 +1742,13 @@
   { "guid": "OXuwdIBV4J", "tier": "IDbG5KMJAF" },
   { "guid": "6g_ZUxPUqN", "tier": "v5HhEVt0za" },
   { "guid": "m-fafoGSY1", "tier": "_s5AL9ypK_" },
-  { "guid": "NFDx2eSIZ1", "tier": "Qfra31_NRT" }
+  { "guid": "NFDx2eSIZ1", "tier": "Qfra31_NRT" },
+  // #endregion
+  // #region Pearl
+  { "guid": "ahYhtDJ7Zk", "tier": "MAkZzYgwLJ" },
+  { "guid": "7vpWmQIjTZ", "tier": "cBf-Wxqm6c" },
+  { "guid": "eVkjP-MmBT", "tier": "UPVTcx2xGF" },
+  { "guid": "2W0huRxb20", "tier": "ZXsP2O6Mfy" },
+  { "guid": "IFe1v_npTL", "tier": "ptfvwoKsyP" }
   // #endregion
 ]

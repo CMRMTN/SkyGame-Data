@@ -794,12 +794,26 @@
     "guid": "SNCx0sIi7D",
     "name": "Season of Pearl",
     "shortName": "Pearl",
+    "iconUrl": "/proxy/icons/_bdueAJEDx.png",
+    "imageUrl": "https://a.storyblok.com/f/108104/1920x1080/027fc1cf76/4_tmisimage_sls_2610.png",
     "year": 2026,
     "date": "2026-10-16",
     "endDate": "2026-12-31",
     "draft": true,
-    "spirits": [],
-    "shops": []
+    "spirits": [
+      "HTcOmszhIP",
+      "YITwEj1MrT",
+      "W5o3UBa-ls",
+      "HB7xbMAPKZ",
+      "9aSW6TswEZ"
+    ],
+    "shops": [],
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Pearl"
+    },
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Season-of-Pearl-3ed8261c87dd80a48e8dce460782fa79"
+    }
   }
   // #endregion
 ]

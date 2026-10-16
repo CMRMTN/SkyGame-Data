@@ -146,5 +146,13 @@
     "mapShrines": ["JzCzw4xQBl"],
     "mapData": { "position": [-253.73, 411.81] },
     "connections": [{ "area": "mT6bVNovBW" }]
+  },
+  {
+    "guid": "KZhKDPecrX",
+    "name": "Pearl Village",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/wasteland/pearl-720.webp",
+    "spirits": ["HTcOmszhIP", "YITwEj1MrT", "W5o3UBa-ls", "HB7xbMAPKZ", "9aSW6TswEZ"],
+    "mapShrines": ["2nSh-kOEUD"],
+    "mapData": { "position": [-359.6, 458.25] }
   }
 ]

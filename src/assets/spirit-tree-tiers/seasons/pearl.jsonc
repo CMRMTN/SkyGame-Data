@@ -1,0 +1,175 @@
+[
+  // Angler's Lantern
+  {
+    "guid": "MAkZzYgwLJ",
+    "next": "zJHdrUPQaj",
+    "rows": [
+      ["5Cs7xdYkyT", "ijvs77GnHT", "dZT3lcfiBX"],
+      ["nLhMlqv2Nn", null, "5COKdSwPjH"]
+    ]
+  },
+  {
+    "guid": "zJHdrUPQaj",
+    "next": "Jj7o8uutnB",
+    "rows": [
+      ["JVfSTZCtCx", "AojrqNQLDb", "5ny38lgRPX"],
+      ["EJTaLxBQ27", null, null]
+    ]
+  },
+  {
+    "guid": "Jj7o8uutnB",
+    "next": "-zgGSZDc17",
+    "rows": [
+      ["C3UgAtTVBT", "U6l6oLD3YB", "OWRIU44btr"],
+      ["KUPXLonQNH", null, null]
+    ]
+  },
+  {
+    "guid": "-zgGSZDc17",
+    "rows": [
+      [null, "Aq3jSTveXS", null]
+    ]
+  },
+  // Cuddly Rolling Child
+  {
+    "guid": "ptfvwoKsyP",
+    "next": "jyiQWRZWOU",
+    "rows": [
+      ["YYAU5xYK-3", "-iVAbtd_8-", "I_yf9Ds3ZP"]
+    ]
+  },
+  {
+    "guid": "jyiQWRZWOU",
+    "next": "k6086cGxvS",
+    "rows": [
+      ["5VTdNvpa1c", "0E6Y1Mu5ni", "BePPWWJ1IC"]
+    ]
+  },
+  {
+    "guid": "k6086cGxvS",
+    "next": "LbL3_yyqgZ",
+    "rows": [
+      ["M-3lq41Pc6", "HIIK0NaKTR", "MbGwJHU287"]
+    ]
+  },
+  {
+    "guid": "LbL3_yyqgZ",
+    "next": "kXHDY0Xo8i",
+    "rows": [
+      ["HnTg_LpzGk", null, "KEBOltroVk"],
+      [null, null, "RRp_VIXqZb"]
+    ]
+  },
+  {
+    "guid": "kXHDY0Xo8i",
+    "rows": [
+      [null, null, "lUMSYMuFLs"]
+    ]
+  },
+  // Old Angler
+  {
+    "guid": "ZXsP2O6Mfy",
+    "next": "9gEgXAneue",
+    "rows": [
+      ["wrjmIC52bT", "dmI29cY24o", "BbOMYsD2lv"]
+    ]
+  },
+  {
+    "guid": "9gEgXAneue",
+    "next": "MsYSPSpavK",
+    "rows": [
+      ["88ZRykeLVQ", "pFQN9ZdGwX", "jBlobqdaU4"]
+    ]
+  },
+  {
+    "guid": "MsYSPSpavK",
+    "next": "3uHs-fjm8p",
+    "rows": [
+      ["xi34Z8MXLd", "IX37b2ufll", "faUfVCY5rQ"]
+    ]
+  },
+  {
+    "guid": "3uHs-fjm8p",
+    "next": "sVNQnPywUa",
+    "rows": [
+      ["PJ6QcTGfWt", null, "CaMEAohZOB"],
+      [null, null, "SHb_PVo8Ty"]
+    ]
+  },
+  {
+    "guid": "sVNQnPywUa",
+    "rows": [
+      [null, null, "ZWMviVa5DS"]
+    ]
+  },
+  // Showy Merchant
+  {
+    "guid": "UPVTcx2xGF",
+    "next": "EOd1a18QFP",
+    "rows": [
+      ["pFBpDttDOu", "NoShqLH4KS", "Fss9FYey5b"]
+    ]
+  },
+  {
+    "guid": "EOd1a18QFP",
+    "next": "uv4GzwRLd6",
+    "rows": [
+      ["4Go4oP1kaV", "xb1SAsOqbN", "WjqM7Zu62C"]
+    ]
+  },
+  {
+    "guid": "uv4GzwRLd6",
+    "next": "Wa0VGNHxa_",
+    "rows": [
+      ["Xwq3Ol0dfb", "bRlUwXkjAo", "ufA3yn41J9"]
+    ]
+  },
+  {
+    "guid": "Wa0VGNHxa_",
+    "next": "CXh3sNnNND",
+    "rows": [
+      ["0jQs89jw4v", null, "SE8KrwyKIc"]
+    ]
+  },
+  {
+    "guid": "CXh3sNnNND",
+    "rows": [
+      [null, null, "odpnshEj2y"]
+    ]
+  },
+  // Wrestling Sailor
+  {
+    "guid": "cBf-Wxqm6c",
+    "next": "2l7vGnL0E3",
+    "rows": [
+      ["ntHpcpPEIF", "mTTqEGh5ra", "erYlHJk6gt"]
+    ]
+  },
+  {
+    "guid": "2l7vGnL0E3",
+    "next": "Z8EYzZa7YH",
+    "rows": [
+      ["sEsz6ZJiVx", null, "76v-2bkMzc"]
+    ]
+  },
+  {
+    "guid": "Z8EYzZa7YH",
+    "next": "2iSuWt7G6d",
+    "rows": [
+      ["y5O2scI-3u", "a89yFo9gSG", "PG-TTNSmWE"]
+    ]
+  },
+  {
+    "guid": "2iSuWt7G6d",
+    "next": "G0YrZTXxxE",
+    "rows": [
+      ["p1faGcby42", null, "XFNTEqyFAv"]
+    ]
+  },
+  {
+    "guid": "G0YrZTXxxE",
+    "rows": [
+      [null, null, "f67uu4C9-S"]
+    ]
+  }
+]

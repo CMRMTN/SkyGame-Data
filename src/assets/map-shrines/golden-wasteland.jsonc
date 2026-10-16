@@ -52,5 +52,11 @@
     "description": "",
     "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Wasteland-The-Two-Embers-City-Map-Shrine.webp",
     "mapData": { "position": [-256.23, 416.56] }
+  },
+  {
+    "guid": "2nSh-kOEUD",
+    "description": "",
+    "imageUrl": "https://sky-planner.com/assets/game/map-shrines/Pearl-Map-Shrine.webp",
+    "mapData": { "position": [-354.41, 456.13] }
   }
 ]
