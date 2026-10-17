@@ -314,6 +314,7 @@
     "guid": "Ur2MI4279X",
     "type": "HairAccessory",
     "name": "Sunflower Headband",
+    "icon": "/proxy/icons/Ur2MI4279X.png",
     "order": 8800
   },
   {
@@ -333,6 +334,7 @@
     "guid": "PTMb3EIBmD",
     "type": "Necklace",
     "name": "Sunflower Neck Tie",
+    "icon": "/proxy/icons/PTMb3EIBmD.png",
     "order": 6000
   },
   {
@@ -340,6 +342,7 @@
     "guid": "phxE9BqJEg",
     "type": "Outfit",
     "name": "Sunflower Dress",
+    "icon": "/proxy/icons/phxE9BqJEg.png",
     "order": 7000
   }
 ]
