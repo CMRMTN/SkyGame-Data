@@ -314,7 +314,7 @@
     "guid": "Ur2MI4279X",
     "type": "HairAccessory",
     "name": "Sunflower Headband",
-    "icon": "/proxy/icons/Ur2MI4279X.png",
+    "icon": "https://sky-planner.com/assets/game/items/Ur2MI4279X.png",
     "order": 8800
   },
   {
@@ -334,7 +334,7 @@
     "guid": "PTMb3EIBmD",
     "type": "Necklace",
     "name": "Sunflower Neck Tie",
-    "icon": "/proxy/icons/PTMb3EIBmD.png",
+    "icon": "https://sky-planner.com/assets/game/items/PTMb3EIBmD.png",
     "order": 6000
   },
   {
@@ -342,7 +342,7 @@
     "guid": "phxE9BqJEg",
     "type": "Outfit",
     "name": "Sunflower Dress",
-    "icon": "/proxy/icons/phxE9BqJEg.png",
+    "icon": "https://sky-planner.com/assets/game/items/phxE9BqJEg.png",
     "order": 7000
   }
 ]
