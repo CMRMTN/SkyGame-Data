@@ -1452,5 +1452,29 @@
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Stone_Candle_Holder"
     },
     "order": 7800
+  },
+  {
+    "id": 3999,
+    "guid": "uvahf8FSY0",
+    "type": "Furniture",
+    "name": "Arles Bedroom Chair",
+    "icon": "https://sky-children-of-the-light.fandom.com/wiki/File:Arles-Bedroom-Chair-Prop-icon.png",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    },
+    "order": 12525
+  },
+  {
+    "id": 4000,
+    "guid": "RPn3mJrGAD",
+    "type": "Furniture",
+    "name": "Arles Bedroom Table",
+    "icon": "https://sky-children-of-the-light.fandom.com/wiki/File:Arles-Bedroom-Table-Prop-icon.png",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    },
+    "order": 12550
   }
 ]
