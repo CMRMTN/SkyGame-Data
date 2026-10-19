@@ -89,7 +89,10 @@
     "name": "Pearl Ultimate Cape",
     "icon": "https://sky-planner.com/assets/game/items/RXLiFm6ixb.png",
     "group": "Ultimate",
-    "order": 19200
+    "order": 19200,
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Angler%27s_Lantern#Pearl_Ultimate_Cape"
+    }
   },
   {
     "id": 3348,
@@ -113,7 +116,10 @@
     "name": "Wallow",
     "level": 1,
     "icon": "https://sky-planner.com/assets/game/items/TjM2punhhG.png",
-    "order": 1902
+    "order": 1902,
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Cuddly_Rolling_Child#Expression"
+    }
   },
   {
     "id": 3351,
@@ -135,7 +141,10 @@
     "type": "Mask",
     "name": "Cuddly Rolling Child Mask",
     "icon": "https://sky-planner.com/assets/game/items/f_yzg-Aqc0.png",
-    "order": 11900
+    "order": 11900,
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Cuddly_Rolling_Child#Mask"
+    }
   },
   {
     "id": 3354,
@@ -151,7 +160,10 @@
     "name": "Wallow",
     "level": 2,
     "icon": "https://sky-planner.com/assets/game/items/TjM2punhhG.png",
-    "group": "SeasonPass"
+    "group": "SeasonPass",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Cuddly_Rolling_Child#Expression"
+    }
   },
   {
     "id": 3356,
@@ -159,7 +171,10 @@
     "type": "Emote",
     "name": "Wallow",
     "level": 3,
-    "icon": "https://sky-planner.com/assets/game/items/TjM2punhhG.png"
+    "icon": "https://sky-planner.com/assets/game/items/TjM2punhhG.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Cuddly_Rolling_Child#Expression"
+    }
   },
   {
     "id": 3357,
@@ -173,7 +188,10 @@
       "primary": {},
       "secondary": {}
     },
-    "order": 7200
+    "order": 7200,
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Cuddly_Rolling_Child#Outfit"
+    }
   },
   {
     "id": 3358,
@@ -182,7 +200,10 @@
     "name": "Cuddly Rolling Child Hair",
     "icon": "https://sky-planner.com/assets/game/items/0PnKbBcfkg.png",
     "group": "SeasonPass",
-    "order": 19000
+    "order": 19000,
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Cuddly_Rolling_Child#Hair"
+    }
   },
   {
     "id": 3359,
@@ -198,7 +219,10 @@
     "name": "Wallow",
     "level": 4,
     "icon": "https://sky-planner.com/assets/game/items/TjM2punhhG.png",
-    "group": "SeasonPass"
+    "group": "SeasonPass",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Cuddly_Rolling_Child#Expression"
+    }
   },
   {
     "id": 3361,
@@ -213,7 +237,10 @@
       "secondary": {}
     },
     "group": "SeasonPass",
-    "order": 19400
+    "order": 19400,
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Cuddly_Rolling_Child#Cape"
+    }
   },
   {
     "id": 3362,
@@ -230,7 +257,10 @@
     "name": "Hesitate",
     "level": 1,
     "icon": "https://sky-planner.com/assets/game/items/hY0rd2pgh9.png",
-    "order": 1904
+    "order": 1904,
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Old_Angler#Expression"
+    }
   },
   {
     "id": 3364,
@@ -251,7 +281,10 @@
     "guid": "NBXXbR5994",
     "type": "Music",
     "name": "Music Sheet (sheet51)",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4e/MusicSheet.png"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4e/MusicSheet.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Old_Angler#Music_Sheet"
+    }
   },
   {
     "id": 3367,
@@ -267,7 +300,10 @@
     "name": "Hesitate",
     "level": 2,
     "icon": "https://sky-planner.com/assets/game/items/hY0rd2pgh9.png",
-    "group": "SeasonPass"
+    "group": "SeasonPass",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Old_Angler#Expression"
+    }
   },
   {
     "id": 3369,
@@ -275,7 +311,10 @@
     "type": "Emote",
     "name": "Hesitate",
     "level": 3,
-    "icon": "https://sky-planner.com/assets/game/items/hY0rd2pgh9.png"
+    "icon": "https://sky-planner.com/assets/game/items/hY0rd2pgh9.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Old_Angler#Expression"
+    }
   },
   {
     "id": 3370,
@@ -297,7 +336,10 @@
       "secondary": {}
     },
     "group": "SeasonPass",
-    "order": 11800
+    "order": 11800,
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Old_Angler#Mask"
+    }
   },
   {
     "id": 3372,
@@ -311,7 +353,10 @@
       "primary": {},
       "secondary": {}
     },
-    "order": 7100
+    "order": 7100,
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Old_Angler#Outfit"
+    }
   },
   {
     "id": 3373,
@@ -320,7 +365,10 @@
     "name": "Hesitate",
     "level": 4,
     "icon": "https://sky-planner.com/assets/game/items/hY0rd2pgh9.png",
-    "group": "SeasonPass"
+    "group": "SeasonPass",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Old_Angler#Expression"
+    }
   },
   {
     "id": 3374,
@@ -333,7 +381,10 @@
       "primary": {}
     },
     "group": "SeasonPass",
-    "order": 9000
+    "order": 9000,
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Old_Angler#Hair_Accessory"
+    }
   },
   {
     "id": 3375,
@@ -350,7 +401,10 @@
     "name": "Show Off",
     "level": 1,
     "icon": "https://sky-planner.com/assets/game/items/5C0kNVybSW.png",
-    "order": 1903
+    "order": 1903,
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Showy_Merchant#Expression"
+    }
   },
   {
     "id": 3377,
@@ -372,7 +426,10 @@
     "type": "Hair",
     "name": "Showy Merchant Hair",
     "icon": "https://sky-planner.com/assets/game/items/nAHlDmdChs.png",
-    "order": 18800
+    "order": 18800,
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Showy_Merchant#Hair"
+    }
   },
   {
     "id": 3380,
@@ -388,7 +445,10 @@
     "name": "Show Off",
     "level": 2,
     "icon": "https://sky-planner.com/assets/game/items/5C0kNVybSW.png",
-    "group": "SeasonPass"
+    "group": "SeasonPass",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Showy_Merchant#Expression"
+    }
   },
   {
     "id": 3382,
@@ -396,7 +456,10 @@
     "type": "Emote",
     "name": "Show Off",
     "level": 3,
-    "icon": "https://sky-planner.com/assets/game/items/5C0kNVybSW.png"
+    "icon": "https://sky-planner.com/assets/game/items/5C0kNVybSW.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Showy_Merchant#Expression"
+    }
   },
   {
     "id": 3383,
@@ -412,7 +475,10 @@
     "name": "Showy Merchant Cape",
     "icon": "https://sky-planner.com/assets/game/items/-ihytZpI9V.png",
     "group": "SeasonPass",
-    "order": 19500
+    "order": 19500,
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Showy_Merchant#Cape"
+    }
   },
   {
     "id": 3385,
@@ -426,7 +492,10 @@
       "primary": {},
       "secondary": {}
     },
-    "order": 4400
+    "order": 4400,
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Showy_Merchant#Outfit"
+    }
   },
   {
     "id": 3386,
@@ -435,7 +504,10 @@
     "name": "Show Off",
     "level": 4,
     "icon": "https://sky-planner.com/assets/game/items/5C0kNVybSW.png",
-    "group": "SeasonPass"
+    "group": "SeasonPass",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Showy_Merchant#Expression"
+    }
   },
   {
     "id": 3387,
@@ -453,7 +525,10 @@
     "name": "Arm Wrestle",
     "level": 1,
     "icon": "https://sky-planner.com/assets/game/items/pjt9rRZ1QV.png",
-    "order": 1901
+    "order": 1901,
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Wrestling_Sailor#Expression"
+    }
   },
   {
     "id": 3389,
@@ -481,7 +556,10 @@
       "primary": {},
       "secondary": {}
     },
-    "order": 19300
+    "order": 19300,
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Wrestling_Sailor#Cape"
+    }
   },
   {
     "id": 3392,
@@ -517,7 +595,10 @@
       "secondary": {}
     },
     "group": "SeasonPass",
-    "order": 4500
+    "order": 4500,
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Wrestling_Sailor#Outfit"
+    }
   },
   {
     "id": 3396,
@@ -531,7 +612,10 @@
       "primary": {},
       "secondary": {}
     },
-    "order": 18900
+    "order": 18900,
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Wrestling_Sailor#Hair"
+    }
   },
   {
     "id": 3397,
